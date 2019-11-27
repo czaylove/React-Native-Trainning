@@ -7,8 +7,8 @@
  */
 
 import React from 'react';
-import { Text } from 'react-native';
-import Home from './src/Screen/Home';
+import Home from './src/screens/Home';
+// import Item from './src/screens/Item';
 const App = () => {
   return <Home />;
 };
